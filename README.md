@@ -1,4 +1,4 @@
-# 2021-12-14 Slides for IT conference lightening talk
+# 2021-12-14 Slides for IT conference lightning talk
 
 See the slides 
 
